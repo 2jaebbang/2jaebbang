@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lee Jae Young</h1>
+<h2 align="center">Hi 👋, I'm Lee Jae Young</h1>
 <h3 align="center">🌱 I’m currently learning JavaScript, TypeScript, React</h3>
 
 <h3 align="left">Languages and Tools</h3>
