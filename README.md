@@ -1,14 +1,18 @@
 <h2 align="center">Hi 👋 I'm Lee Jae Young</h2>
 <h3 align="left">🌱 I’m currently learning</h3>
 
-<p>    
+<p>
+<img src="https://img.shields.io/badge/java-222F29?style=for-the-badge&logo=java"/>
 <img src="https://img.shields.io/badge/Spring-222F29?style=for-the-badge&logo=Spring"/>
-<img src="https://img.shields.io/badge/Laravel-222F29?style=for-the-badge&logo=Laravel"/>
-<img src="https://img.shields.io/badge/React-222F29?style=for-the-badge&logo=React"/>
+<img src="https://img.shields.io/badge/Spring Boot-222F29?style=for-the-badge&logo=Spring Boot"/>
+<img src="https://img.shields.io/badge/JPA-222F29?style=for-the-badge&logo=JPA"/>
 <!-- <img src="https://img.shields.io/badge/jquery-333333?style=for-the-badge&logo=jquery"/> -->
 <img src="https://img.shields.io/badge/MySQL-222F29?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/AWS-222F29?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Naver Cloud-222F29?style=for-the-badge&logo=navercloud"/>
 <img src="https://img.shields.io/badge/docker-222F29?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Laravel-222F29?style=for-the-badge&logo=Laravel"/>
+<img src="https://img.shields.io/badge/React-222F29?style=for-the-badge&logo=React"/>
 
 
 
