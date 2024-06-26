@@ -4,7 +4,6 @@
 <p>
 <img src="https://img.shields.io/badge/java-222F29?style=for-the-badge&logo=java"/>
 <img src="https://img.shields.io/badge/Spring-222F29?style=for-the-badge&logo=Spring"/>
-<img src="https://img.shields.io/badge/Spring Boot-222F29?style=for-the-badge&logo=Spring Boot"/>
 <img src="https://img.shields.io/badge/JPA-222F29?style=for-the-badge&logo=JPA"/>
 <!-- <img src="https://img.shields.io/badge/jquery-333333?style=for-the-badge&logo=jquery"/> -->
 <img src="https://img.shields.io/badge/MySQL-222F29?style=for-the-badge&logo=mysql"/>
